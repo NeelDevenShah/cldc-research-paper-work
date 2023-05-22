@@ -5,18 +5,21 @@ For example i am an student and i know the java, So to compare the my knowledge 
 The another point to note is that, If i have completed any of the project on combination of the any of the technologies than, machine learning system has to also give the point to that project and that point would be given on the basis of the "another dataset which contains the project name, technology, project value, and the requirement of the skills used in that project in the market"
 
 Basially as per my plan we wan't:
-1) "An dataset containing info of" individual who want to take part in the placement
+1) "An dataset containing info of"
 2) " who want to take part in the placement and thier resume details
 3) " Particular type of job in particular place
 4) " Category wise job requirement in market
 5) " Skills wise job requiement in market
 6) " Statement wise ranking dataset for ranking or giving point to the description of the project
 7) " Language and the job market dataset
+     state, cities and job
 8) " Achievement and its rank or point dataset
 9) " Soft skill ranking dataset
-10) " containing the information of the number of the interships and probability of getting the jobs
+10) " containing the information of the number of the interships
 
 ==> Basically the apporach would be like we will tokenize the each and every word of the student dataset and than we will give the probability to the each of the aspect of the parameter in the dataset and than we will use that different probability values to predict the new recommendations and the chances of the placement of an indivial student by help of the deep learning or tree based algorithm or any other approach...
 
 
 "Any suggestion if any??"
+
+wordcloud
