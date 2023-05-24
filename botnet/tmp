@@ -1,0 +1,74 @@
+
+Resume Parameters
+1. Number of programming languages: Count the number of programming languages mentioned in the resume's skills section or projects section.
+
+2. Relevant work experience: Evaluate the relevance of the work experience mentioned in the resume based on keywords, job titles, or industry domains.
+
+3. Technical skills proficiency: Assess the proficiency level of technical skills mentioned in the resume, such as programming languages, frameworks, or tools.
+
+4. Project management experience: Identify any project management roles or responsibilities mentioned in the resume, such as leading a team or coordinating project timelines.
+
+5. Academic achievements: Consider the academic performance, honors, awards, or research projects mentioned in the resume.
+
+6. Internship experience: Determine if the resume includes any internship experience or practical training in relevant fields.
+
+7. Contributions to open-source projects: Identify any contributions made by the student to open-source projects, such as code contributions or participation in community development.
+
+8. Teamwork and collaboration experience: Assess the experience mentioned in the resume related to teamwork, collaboration, or group projects.
+
+9. Certifications and training: Consider any relevant certifications, online courses, or specialized training mentioned in the resume.
+
+10. Leadership and initiative demonstrated: Evaluate the resume for any instances where the student demonstrates leadership skills or takes initiative in projects, clubs, or extracurricular activities.
+
+
+------------------------------------------------------
+For projects the parameters can be 
+complexity
+Novelty
+Implementation
+Documentation
+Creativity
+
+-------------------------------------------------------
+skill resume
+
+Resume Parameters	Skills
+Programming languages	Python, Java, C++, JavaScript, Ruby, etc.
+Frameworks and libraries	TensorFlow, Django, React, Spring, jQuery, etc.
+Databases and SQL proficiency	MySQL, PostgreSQL, MongoDB, Oracle, SQL Server, etc.
+Web development skills	HTML, CSS, JavaScript, Bootstrap, REST APIs, etc.
+Data analysis and visualization tools	Pandas, NumPy, Matplotlib, Tableau, Power BI, etc.
+Machine learning algorithms	Linear Regression, Decision Trees, SVM, Random Forest, etc.
+Deep learning frameworks	TensorFlow, Keras, PyTorch, Caffe, MXNet, etc.
+Cloud computing platforms	AWS, Azure, Google Cloud, IBM Cloud, etc.
+Version control systems	Git, SVN, Mercurial, Bitbucket, etc.
+Agile development methodologies	Scrum, Kanban, Agile project management, etc.
+Natural language processing techniques	NLP, NLTK, spaCy, Word2Vec, GloVe, etc.
+Data mining and data preprocessing skills	SQL, Data Cleaning, Feature Engineering, etc.
+----------------------------------------------------------
+
+Resume Parameters	Soft Skills
+Leadership roles and responsibilities	Leadership, Team Management, Decision Making
+Project management experience	Organization, Time Management, Planning, Prioritization
+Communication skills	Verbal and Written Communication, Presentation Skills
+Collaboration and teamwork	Teamwork, Collaboration, Relationship Building, Conflict Resolution
+Client or customer interaction skills	Customer Service, Client Management, Negotiation, Relationship Management
+Problem-solving skills	Analytical Thinking, Critical Thinking, Creative Problem Solving
+Adaptability and flexibility	Flexibility, Adaptability to Change, Learning Agility
+Initiative and self-motivation	Self-Driven, Initiative, Proactive, Motivated
+Attention to detail	Accuracy, Detail-Oriented, Quality Focus
+Interpersonal skills	Empathy, Emotional Intelligence, Networking, Relationship Building
+Presentation and public speaking skills	Public Speaking, Presentation Skills, Confidence
+Conflict resolution skills	Conflict Resolution, Mediation, Diplomacy
+
+
+-------------------------------
+data set for the skill and the respective frame works related to that skill
+
+than for the project ranking or marking system, we have to make an system such that which finds the realtion between the skills shown in the resume and if that particular skill is added to the resume than the project will be having the higher score and if the particual skill relation does not exists than the project will get the less points
+
+Now what for giving the point to the interships or the exprience???
+--> The one approach is that we can use the same method as that of the method used for the project
+--> The second approach is ???
+
+For recommending any skill to the user we, will make an relation entitry i.e. 
